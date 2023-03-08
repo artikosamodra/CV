@@ -1,3 +1,4 @@
+# artiko
 # Hi everyone :wave:
 
 I'm a web developer from the Czech Republic, who loves open source, and is currently working at [Gitpod](https://gitpod.io/).
@@ -10,11 +11,11 @@ manage your future open-source contributions.
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/artikosamodra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicekcek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
- (also from a project I have contributed to, [artikosamodra/github-readme-stats](https://github.com/artikosamodra/github-readme-stats))
+ (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/open-source-thesis/" (published on August 12, 2022)</a>
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
@@ -85,3 +86,4 @@ development, it is in my opinion the best combination of logical programming and
 | FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
 
 </details>
+0 comments on commit 736d666
