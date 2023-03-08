@@ -11,11 +11,11 @@ manage your future open-source contributions.
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/artikosamodra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
- (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+ (also from a project I have contributed to, [artikosamodra/github-readme-stats](https://github.com/artikosamodra/github-readme-stats))
 * Latest blog post: <a class="post" href="https://blog.trnck.dev/open-source-thesis/" (published on August 12, 2022)</a>
 
 Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
