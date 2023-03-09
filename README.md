@@ -12,7 +12,7 @@ manage your future open-source contributions.
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/artikosamodra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=artikosamodra&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
  (also from a project I have contributed to, [artikosamodra/github-readme-stats](https://github.com/artikosamodra/github-readme-stats))
